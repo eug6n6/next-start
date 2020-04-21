@@ -6,6 +6,7 @@ Starter configured for exporting headless static site. Includes:
 - Next.js
 - SCSS stylings
 - Importing posts in .md files
+- Multilanguage support
 
 # Demo
 
