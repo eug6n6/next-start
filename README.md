@@ -9,7 +9,7 @@ Starter configured for exporting headless static site. Includes:
 
 # Demo
 
-[http://104.248.140.157:3033/](Check out) demo.
+[Check out](http://104.248.140.157:3033) demo.
 
 
 # Site structure
